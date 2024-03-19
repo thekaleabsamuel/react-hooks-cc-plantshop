@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Lomatia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtgEUfXIQHZYgMQDG549KW-7kkDdZrjLIFEkM1gGaGVtD7bwR",
+      "price": 11.99,
+      "id": 8
+    },
+    {
+      "name": "Lomatia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtgEUfXIQHZYgMQDG549KW-7kkDdZrjLIFEkM1gGaGVtD7bwR",
+      "price": 11.99,
+      "id": 9
+    },
+    {
+      "name": "lomatia",
+      "image": "https://resources.austplants.com.au/wp-content/uploads/L_salaifolia-many-flower-spikes-1536x2048.jpg",
+      "price": "12.96",
+      "id": 10
     }
   ]
 }
